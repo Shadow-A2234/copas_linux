@@ -1,0 +1,7 @@
+<?php
+echo "<h1>Peringatan Keamanan!</h1>";
+echo "<p>Celah keamanan 'Unrestricted File Upload' ditemukan pada modul foto profil.</p>";
+echo "<p>Skrip PHP berhasil dieksekusi.</p>";
+echo "<p>Tanggal pengujian: " . date('Y-m-d H:i:s') . "</p>";
+echo "<p>untuk keperluan Tugas Akhir</p>";
+?>
